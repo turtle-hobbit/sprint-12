@@ -2,7 +2,7 @@
   "name": "sprint-12_bedareva_sofya",
   "version": "0.0.1",
   "description": "Creating a server using Express.js",
-  "main": "/js/script.js",
+  "main": "/app.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
